@@ -1,1 +1,1 @@
-# Hi~ I'm Li Hang 👋
+# Hi~ I'm Li Hang 👋. I love javascript!
